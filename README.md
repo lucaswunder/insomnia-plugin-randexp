@@ -14,8 +14,7 @@ Generates a random value from regex on [RandExp](https://github.com/fent/randexp
 
 ### Examples:
 
-![Screenshot]()
-![Screenshot]()
+![Screenshot](/readme-preview-1.png?raw=true)
 
 ### Warning:
 
