@@ -1,0 +1,29 @@
+{
+  "name": "insomnia-plugin-randexp",
+  "version": "0.0.1",
+  "author": "Lucas Wunder (https://github.com/lucaswunder)",
+  "homepage": "https://github.com/lucaswunder/insomnia-plugin-randexp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucaswunder/insomnia-plugin-randexp.git"
+  },
+  "keywords": [
+    "insomnia",
+    "insomnia-plugin",
+    "random",
+    "random-regex",
+    "regex",
+    "regex-generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/lucaswunder/insomnia-plugin-randexp/issues"
+  },
+  "insomnia": {
+    "name": "randexp",
+    "description": "Insomnia plugin to generate random information from regex"
+  },
+  "dependencies": {
+    "randexp": "^0.5.3"
+  }
+}
